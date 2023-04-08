@@ -2696,7 +2696,7 @@ content: '+ ';
 
 .brands-container {
   /* overflow: hidden; */
-  height: 50px;
+  height: 100px;
   
 }
 .slider {
@@ -2708,7 +2708,7 @@ content: '+ ';
   width: 100%;
   display: inline-block;
   margin: 0px 0;
-  height: 50px;
+  height: 100px;
   
 }
 .logos img{
