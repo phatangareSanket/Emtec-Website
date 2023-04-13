@@ -2707,13 +2707,14 @@ content: '+ ';
 .logos {
   width: 100%;
   display: inline-block;
-  margin: 0px 0;
+  /* margin: 0px 0; */
   height: 100px;
   
 }
 .logos img{
   height: 50px;
-  margin-right: 50px;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 .fab {
   width: calc(100% / 5);
